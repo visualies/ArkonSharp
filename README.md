@@ -4,7 +4,7 @@ Rcon Library to work with Ark Survival Evolved commands.
 
 
 ```csharp
-using System;
+using ArkonSharp;
 
 namespace Example
 {
